@@ -1,0 +1,20 @@
+Directions.txt
+Due Date: 12:00PM PT, Jan 29, 2019 
+Test Scenarios
+
+1. Testing Search functionality works as intended
+
+     - Inputting valid sku - 2613243 will take user to the right page and image for that sku is seen 
+
+     - Inputting invalid sku -  - 123456  will show a search result message 
+
+ 
+
+2. Store Locator
+
+ - Verify selecting `Arizona` State  from State dropdown menu gives  2 store result
+
+ - Verify selecting `Texas` State  from State dropdown menu gives  8 store results
+
+ 
+Write test scripts to test the Search and Store Locator functionality using test automation tools for testing and reporting of your choice. (Python or JavaScript Language is preferred) .Capture Screenshots at failure.
